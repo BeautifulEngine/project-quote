@@ -4,6 +4,10 @@ Turn "here's what the client wants" into a quote a client can sign: what you'll 
 
 **What you get:** Turns a project scope into a branded quote and statement of work PDF (phases, deliverables, hours and rates or fixed fees, contingency, payment schedule, assumptions, out of scope, timeline, terms and a signature block), with totals computed by a script so the math is always right. Also makes a one-page rate card of services and rates.
 
+![Pages from a sample Project Quote: summary and total, scope, timeline and payment, terms and sign-off](docs/preview.png)
+
+**See the full sample:** [Sample-Field-and-Form-Quote-Ridge-Coffee.pdf](examples/Sample-Field-and-Form-Quote-Ridge-Coffee.pdf) (fictional names and figures)
+
 Made by Beautiful Engine · [beautifulengine.com](https://www.beautifulengine.com) · [Questions or ideas? Open an issue](https://github.com/BeautifulEngine/project-quote/issues/new)
 
 ## Install
@@ -36,6 +40,8 @@ mkdir -p ~/.claude/skills && cp -r project-quote/project-quote ~/.claude/skills/
 Then use `/project-quote`.
 
 ## Usage
+
+![Animated demo: example requests typed into Claude, each followed by what the Project Quote skill makes](docs/how-to-ask.gif)
 
 ```
 /project-quote <client>: <what they want> [budget] [deadline]
