@@ -6,7 +6,7 @@ Turn "here's what the client wants" into a quote a client can sign: what you'll 
 
 ![Pages from a sample Project Quote: summary and total, scope, timeline and payment, terms and sign-off](docs/preview.png)
 
-**See the full sample:** [Sample-Field-and-Form-Quote-Ridge-Coffee.pdf](examples/Sample-Field-and-Form-Quote-Ridge-Coffee.pdf) (fictional names and figures)
+**See the full sample:** [Sample-Beautiful-Engine-Quote-Outside-Lands.pdf](examples/Sample-Beautiful-Engine-Quote-Outside-Lands.pdf) (a spec sample from Beautiful Engine to Outside Lands, not a real quote)
 
 Made by Beautiful Engine · [beautifulengine.com](https://www.beautifulengine.com) · [Questions or ideas? Open an issue](https://github.com/BeautifulEngine/project-quote/issues/new)
 
